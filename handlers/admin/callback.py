@@ -4,6 +4,5 @@ from aiogram.dispatcher import filters
 from aiogram.dispatcher import FSMContext
 from keyboards.keyboard import *
 from filters.filters import *
-from config import ADMIN
 from states.States import *
 import re
